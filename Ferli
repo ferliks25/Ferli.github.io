@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ferli Kurnia Sandy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Ferli Kurnia Sandy</h1>
+        <h2>Full Stack Developer</h2>
+    </header>
+    <section id="projects">
+        <h3>Projects</h3>
+        <ul>
+            <li>
+                <h4>E-commerce Platform</h4>
+                <p>A secure and user-friendly online store, developed using React and Node.js.</p>
+            </li>
+            <li>
+                <h4>Real-time Chat Application</h4>
+                <p>A web application that allows users to chat in real-time, using React and Express.</p>
+            </li>
+            <li>
+                <h4>Data Analysis Dashboard</h4>
+                <p>An interactive dashboard for analyzing and visualizing large datasets, using React and D3.js.</p>
+            </li>
+        </ul>
+    </section>
+    <section id="experience">
+        <h3>Experience</h3>
+        <ul>
+            <li>Software Engineer at XYZ Company</li>
+            <li>Web Developer at ABC Corp</li>
+        </ul>
+    </section>
+    <section id="education">
+        <h3>Education</h3>
+        <ul>
+            <li>Bachelor of Science in Computer Science, University of Example</li>
+            <li>Full Stack Web Development Certificate, Coding Bootcamp</li>
